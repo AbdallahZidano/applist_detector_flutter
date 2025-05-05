@@ -27,7 +27,7 @@ apply plugin: 'kotlin-android'
 android {
     compileSdkVersion 33
     ndkVersion "25.0.8775105"
-    namespace "com.zidano.applist_detector_flutter"
+    namespace "com.ahmed.applist_detector_flutter"
 
 
     buildFeatures {
